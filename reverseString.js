@@ -1,3 +1,4 @@
+// TO reverse a STRING 
 
 let string = "Testing";
 let reversed = string.split('').reverse().join('');
